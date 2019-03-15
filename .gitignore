@@ -3,3 +3,4 @@ __pycache__
 plugins/
 server_log.txt
 server*
+!*.cfg
