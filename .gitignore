@@ -1,6 +1,7 @@
 .vscode
 __pycache__
-plugins/
+plugins/*
 server_log.txt
 server*
 !*.cfg
+!.gitkeep
